@@ -1,0 +1,46 @@
+<html>
+<head>
+<title> Web Technology</title>
+<style>
+table, th, td {
+border: black;
+border collapse: collapse;
+}
+img {
+border: 1px solid #ddd;
+border-radius: 4px;
+padding: 5px;
+width: 150px;
+}
+</style>
+</head>
+<body bgcolor="sky blue">
+<table>
+<tr>
+<th>Year</th>
+<th>Admissions</th>
+</tr>
+<tr>
+<td>2022</td>
+<td>800</td>
+</tr>
+<tr>
+<td>2023</td>
+<td>1000</td>
+</tr>
+</table>
+<img src="https://www.thewowstyle.com/wp-content/uploads/2015/01/Nature-pictures-2.jpg">
+<p>The image below is a link. Try to click on it.</p>
+<a href="default.asp"><img src="https://clipground.com/images/smiley-content-png.jpg" alt="HTML tutorial" style="width:50px;height:50px;"></a>
+<ol>Available courses
+<li>Operating systems</li>
+<li>Data Structures</li>
+<li>Web technology</li>
+</ol>
+<ul>Unavailable dept
+<li>Mbbs</li>
+<li>bds</li>
+<li>bba</li>
+</ul>
+</body>
+</html>
