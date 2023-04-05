@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>My Website</title>
+</head>
+<body>
+<div>
+<c><input type="text"
+placeholder="Enter Name"/></c>
+</div>
+<c><input type="e-mail"
+placeholder="Enter e-mail"/></c>
+<div>
+<c><input type="button"
+value="Submit"/></c>
+</div>
+</body>
+</html>
